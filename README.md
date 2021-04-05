@@ -1,2 +1,2 @@
 # GameDev
-Games Engineering module (Uni)
+For game dev module at uni
